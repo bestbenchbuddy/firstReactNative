@@ -1,3 +1,3 @@
 # firstReactNative
 
-First react-native iOS project using Expo
+My first react-native iOS project using Expo
