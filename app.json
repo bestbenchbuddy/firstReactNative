@@ -17,10 +17,14 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.bastianInc.FirstNativeApp",
+      "buildNumber": "1.0.0",
       "supportsTablet": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/bestbenchbuddy/firstReactNative.git"
   }
 }
